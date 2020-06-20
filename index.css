@@ -3,3 +3,7 @@ div{
     color: chartreuse;
     background-color: pink;
 }
+p{
+    /* 这是在分支上设置的样式 */
+    color: pink;
+}
